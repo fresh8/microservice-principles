@@ -12,6 +12,7 @@ Other peoples different opinions and areas of expertise are what make Fresh8 Gam
 * Create a topic branch from where you want to base your work.
   * This is usually the `master` branch.
   * To quickly create a topic branch based on `master`, run `git checkout -b my_contribution master`. Please avoid working directly on the `master` branch.
+* Use the [adr tool](https://www.hascode.com/2018/05/managing-architecture-decision-records-with-adr-tools/) (if applicable) to update the repository with your changes.
 * Make commits of logical and atomic units.
 * Check for unnecessary whitespace with git diff --check before committing.
 
