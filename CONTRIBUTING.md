@@ -15,7 +15,7 @@ Other peoples different opinions and areas of expertise are what make Fresh8 Gam
 * Make commits of logical and atomic units.
 * Check for unnecessary whitespace with git diff --check before committing.
 
-## Submitting Changes
+## Submitting Changes
 
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the repository in the [fresh8 organization](https://github.com/fresh8/microservice-principles).
