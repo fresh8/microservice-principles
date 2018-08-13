@@ -22,3 +22,7 @@ Other peoples different opinions and areas of expertise are what make Fresh8 Gam
 * All discussion on a new principle, or a change to existing principles, should happen on the pull request created in the repository.
 * Pull requests will be discussed in a monthly meeting that will be accessible to engineers via a Google Meet, which will be recorded with any required actions commented on the pull request directly.
 * After feedback has been given we expect responses within a week. After two weeks we may close the pull request if it isn't showing any activity.
+
+## Discussing Changes
+
+All pull requests to this project are expected to go through a period of discussion and feedback to ensure principles are bought into by the company as a whole. Due to this, all discussion must be within the pull requests themselves, and any changes to a pull request should be done after a decision is reached. Ad hoc changes to pull requests during discussions can end up with back and forth changes and wasted effort.
